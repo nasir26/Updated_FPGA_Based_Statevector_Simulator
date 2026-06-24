@@ -12,3 +12,25 @@ FPGA via fpga_simulator_version_5 (the v05 simulator we just built).
 Reference state = CPU result when n ≤ cpu_cap, else analytic ideal where known (GHZ, QFT|0⟩), else skip fidelity.
 
 Per-algorithm plots: 4 separate figures (one per algorithm), each with two panels (time vs qubits, infidelity vs qubits), three lines per panel (CPU/GPU/FPGA).
+
+---
+
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@misc{nasirali_updated_fpga_based_s,
+  author    = {Nasir Ali},
+  title     = {Updated FPGA Based Statevector Simulator},
+  year      = {2026},
+  publisher = {GitHub},
+  url       = {https://github.com/nasir26/Updated_FPGA_Based_Statevector_Simulator},
+  note      = {Centre for Development of Advanced Computing (C-DAC), Noida, India}
+}
+```
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.\
+© 2026 Nasir Ali, C-DAC Noida. All rights reserved.
