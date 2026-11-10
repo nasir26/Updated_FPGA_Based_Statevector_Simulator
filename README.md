@@ -1,3 +1,5 @@
+> **Note (2026-11-09):** the code, data and reproduction scripts of this work are now maintained in [nasir26/u55c-statevector-sim-30q](https://github.com/nasir26/u55c-statevector-sim-30q) (currently private, to be published after review). This repository stays as it is for reference.
+
 Single unified benchmark file. Three backends, four algorithms, complex128 throughout, per-algorithm plots with all three hardwares overlaid.
 
 
